@@ -1,3 +1,27 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://azrael-iii.github.io/neocom.github.io/'
+languageCode = 'fr-fr'
+title = 'NEOCOM'
+theme = 'terminal'
+
+[[menu.main]]
+  name = "A propos"
+  url = "/a-propos"
+
+[[menu.main]]
+  name = "Musique"
+  url = "/Musique"
+  
+[[menu.social]]
+  name = "Twitter"
+  url = "https://twitter.com/HQueenston64804"
+  pre = "<i class='fab fa-twitter'></i>"
+  
+[[menu.footer]]
+  name = "A propos"
+  url = "/a-propos"
+
+[markup.goldmark.renderer]
+  unsafe= true
+
+[params]
+  enableEmoji= true
