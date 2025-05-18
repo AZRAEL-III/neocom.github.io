@@ -1,5 +1,5 @@
 baseURL = 'https://azrael-iii.github.io/neocom.github.io/'
-languageCode = 'fr-fr'
+languageCode = 'fr'
 title = 'NEOCOM'
 theme = 'terminal'
 
@@ -25,3 +25,17 @@ theme = 'terminal'
 
 [params]
   enableEmoji= true
+
+[languages]
+  [languages.fr]
+    [languages.fr.params]
+      languageName = "Français"
+      title = "Neocom"
+      owner = "Azrael Queenston"
+      copyright = "(1992 - 2025) - Azrael Queenston"
+      missingContentMessage = "Page non trouvée..."
+      missingBackButtonLabel = "Retour à l'accueil"
+
+    [languages.en.params.logo]
+      logoText = "NEOCOM"
+      logoHomeLink = "https://azrael-iii.github.io/neocom.github.io/"
