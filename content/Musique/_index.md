@@ -11,4 +11,4 @@ Bienvenue dans la catégorie Musique
 <button onclick="window.location.href='https://azrael-iii.github.io/neocom.github.io/musique/chiptune';">Chiptune</button></div>
 
 ***
-[Retour à l'accueil](https://https://azrael-iii.github.io/neocom.github.io/)
+[Retour à l'accueil](https://azrael-iii.github.io/neocom.github.io/)

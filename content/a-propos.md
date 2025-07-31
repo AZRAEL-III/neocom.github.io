@@ -6,4 +6,4 @@ draft = false
 
 Site crée par Azrael Queenston
 
-[Contacter](azrael.queenston@proton.me)
+[Contacter](mailto://azrael.queenston@proton.me)

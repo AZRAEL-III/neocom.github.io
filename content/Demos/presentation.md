@@ -1,0 +1,46 @@
+---
+title: "Présentation"
+draft: false
+---
+# Démos
+Ici, vous êtes dans la catégorie **Démos**, je partagerai la totalité de mes démos effectuées sur les jeux me permettant d'en enregistrer (Doom/Quake/Half-Life 1 ou le 2).
+
+## Tableau
+|Jeu|Nombre de Démos|Catégorie la plus fréquente|Lien|
+|-|-|-|-|
+|The Ultimate Doom|287|ITYTD-Speed / UV-Speed||
+|Doom (KEX port)|2|ITYTD-Speed / UV-Speed||
+|FreeDoom|150|PdKM-Speed||
+|Psydoom|2|UV-Speed||
+|Quake|1066|Episode 1 - Easy||
+|Half-Life|2|Scriptless||
+|Trackmania|4|White - Any%||
+|Nullpomino|1|40 Lines Race||
+|System Shock (1993)|8|Difficulty 0:0||
+
+***
+## Vocabulaire
+|Jeu|Terme / Technique de gameplay|Définition|Exemple|
+|-|-|-|-|
+|Doom|ITYTD|La Difficulté la plus simple du jeu (I am Too Young To Die).||
+||UV|La Difficulté la plus difficile du jeu en vanilla (Ultra-Violence).||
+||Speed|Cà correspond à la manière de compléter le.s niveau.x, Speed pour le fait de finir le niveau le plus vite possible en skippant (évitant) tout ce que l'on veut. *Max* pour le fait de **maxxer** un niveau, donc le finir avec 100% de Kills, 100% d'Objets ramassés et 100% des succès.*NoMo* signifie la run No Monsters (sans monstres DUH !!).||
+|FreeDoom|PdKM|La difficulté la plus simple du jeu (Please, don't Kill Me !).||
+|Quake|Straferunning|Courrir en alternant Q et D rapidement pour profiter de la vitesse additionnelle donné au joueur par la modification de son vecteur de vitesse.||
+||Circlestrafing|Courrir et tourner rapidement à 90° dans une direction **tout en** allant vers cette direction avec une touche de strafing (Q ou D en tournant à gauche ou à droite||
+||Strafejumping|Combinaison d'un CircleStrafe avec un saut à la fin du quart de tour (utilisé afin d'initier un Bunnyhop)||
+||Bunnyhopping|Et oui ! Cà vient de Quake çà ! Il s'agit de sauter continuellement tout en alternant Strafe Gauche ou Strafe Droite sans utiliser de marche avant, permettant d'accumuler de la vitesse de *StrafeJumping* en perdant le minimum de vitesse en touchant le sol.||
+||Power-Bunnyhopping|Car le Bunnyhop (ou BHop) perds un peu en efficacité à chaque fois que l'on touche le sol, ici pour le PBHop, on tapote la marche avant au moment ou l'on retombe, afin de recommencer à courrir au moment ou l'on touche le sol pour rebondir. Celà permet d'accumuler de la vitesse en perdant que 4ups par saut au lieu de 6 à 8 pour un BHop Classique.||
+||Rocket-jumping|Classique, on saute avant de tirer une roquette sous nos pieds pour pouvoir se propulser en l'air.||
+||Grenade-Boost|Exactement la même que le Rocket Jump mais là il faut attendre exactement 3sec avant que la grenade explose, il faut donc timer sa grenade pour un lancer.||
+||Grunt-Launching|On utilise la même tactque que le Grenade Boost sauf que c'est un ennemi qui doit nous tirer dessus, où la grenade va exploser au contact.||
+||Slope-thrusting|On va utiliser les rampes pour "surfer" et pouvoir sauter plus haut.||
+|Half-Life|Scriptless|Le fait de compléter le jeu sans mod additionnel (sans compter le Bunnyhop) ni arguments de commande modifiant le comportement du jeu.||
+|Trackmania|White|Il s'agit des différentes difficultés du jeu calées sur les couleurs des pistes de ski, allant de Blanc à Noir.||
+|Nullpomino|40 Lines Race|Le but est de compléter 40 lignes le plus vite possible.||
+|System Shock|Difficulty 0:0|La difficulté la plus basse possible, 0/0/0/0 soit : Les Enigmes sont résolues automatiquement, Aucun besoin de clé ni de code pour déverrouiller les portes, Les caméras ne nous traquent pas & Les ennemis ont énormément de mal à nous traquer.||
+
+Ensuite, nous avons les différents modes de speedrun :
+- Le Any% : Finir le jeu le plus vite possible sans compléter aucun objectif, le routage est facultatif.
+- Le 0% : Finir le jeu en complétent exactement aucun objectif.
+- Le 100% : Finir le jeu (intégralement) le plus vite possible en complétant tous les objectifs, quêtes principales, secondaires, avec tous les objets etc...
