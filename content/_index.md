@@ -4,12 +4,12 @@ draft: false
 ---
 Hey ! Bienvenue sur NEOCOM (pas du tout quelque chose venant d'EVE Online).
 
-Ici, je partage mes stratégies sur Doom, la totalité de mes replays (sous forme de démos) sur divers jeux.
-Mais aussi mes astuces de speedrun ainsi que la quasi-totalité de mes runs.
+Ici, je partage mes stratÃ©gies sur Doom, la totalitÃ© de mes replays (sous forme de dï¿½mos) sur divers jeux.
+Mais aussi mes astuces de speedrun ainsi que la quasi-totalitÃ© de mes runs.
 
-Ce site sert d'archive mais surtout de HUB pour tous les gens voulant voir l'évolution d'un speedrunner (comprenant les runs complétées et les fails).
-Je partagerai également des Maps ou des Mods conçus pour Doom / Quake.
+Ce site sert d'archive mais surtout de HUB pour tous les gens voulant voir l'Ã©volution d'un speedrunner (comprenant les runs complÃªtÃ©es et les fails).
+Je partagerai Ã©galement des Maps ou des Mods conÃ§us pour Doom / Quake.
 
-Je mettrai à disposition (plus tard) une API pour pouvoir effectuer des renders de démos de Doom et de Quake (ou de jeux utilisant ID Tech 1 / GoldSrc, je préciserai plus tard sur un autre onglet).
+Je mettrai Ã  disposition (plus tard) une API pour pouvoir effectuer des renders de dï¿½mos de Doom et de Quake (ou de jeux utilisant ID Tech 1 / GoldSrc, je prÃ©ciserai plus tard sur un autre onglet).
 
-Vous pouvez accéder à la présentation [ici](https://azrael-iii.github.io/neocom.github.io/Demos/presentation)
+Vous pouvez accÃ©der Ã  la prÃ©sentation [ici](https://azrael-iii.github.io/neocom.github.io/Demos/presentation)
