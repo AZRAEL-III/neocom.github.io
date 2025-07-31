@@ -11,6 +11,10 @@ theme = 'terminal'
   name = "Musique"
   url = "/Musique"
   
+[[menu.main]]
+  name = "Démos"
+  url = "/Demos"
+  
 [[menu.social]]
   name = "Twitter"
   url = "https://twitter.com/HQueenston64804"
