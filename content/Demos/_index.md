@@ -6,18 +6,20 @@ draft: false
 Ici, vous étes dans la catégorie **Démos**, je partagerai la totalité de mes démos effectuées sur les jeux me permettant d'en enregistrer (Doom/Quake/Half-Life 1 ou le 2).
 
 ## Tableau
-|Jeu|Nombre de Démos|Catégorie la plus fréquente|Lien vers les temps (Si disponible)|
+|Jeu|Nombre de Démos / Run terminées|Catégorie la plus fréquente|Lien vers les temps (Si disponible)|
 |-|-|-|-|
-|Quake|1321|Episode 1 - Easy|
-|The Ultimate Doom|287|ITYTD-Speed / UV-Speed|
-|FreeDoom|150|PdKM-Speed|
-|Doom (KEX port)|2|ITYTD-Speed / UV-Speed|
-|System Shock (1993)|8|Difficulty 0:0|
-|Trackmania|4|White - Any%|
-|Psydoom|2|UV-Speed|
-|Half-Life|2|Scriptless|
-|Nullpomino|1|40 Lines Race|
-Oui j'ai concocté plus de 1777 démos avec le temps (sans compter le nombre de démos effectuées sur GZDoom et Zandronum parce que sinon on affole les 2500)
+|Quake|1321 / 200|Episode 1 - Easy (Any%)|
+|The Ultimate Doom|1287 / 240|ITYTD-Speed / UV-Speed||
+|FreeDoom|150 / 20|PdKM-Speed||
+|Doom (KEX port)|2 / 2|ITYTD-Speed / UV-Speed||
+|System Shock (1993)|48 / 8|Difficulty 0:0||
+|Trackmania|190 / 4|White - Any%||
+|Psydoom|2 / 2|UV-Speed||
+|Half-Life|29 / 2|Scriptless||
+|Nullpomino|14 / 1|40 Lines Race||
+|Penumbra : Black Plague|390 / 0|Any%||
+
+Oui j'ai concocté plus de 3449 démos avec le temps (sans compter le nombre de démos effectuées sur GZDoom et Zandronum parce que sinon on affole les 5000).
 
 ***
 ## Vocabulaire
