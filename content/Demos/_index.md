@@ -19,7 +19,7 @@ Ici, vous étes dans la catégorie **Démos**, je partagerai la totalité de mes
 |Nullpomino|14 / 1|40 Lines Race||
 |Penumbra : Black Plague|390 / 0|Any%||
 
-Oui j'ai concocté plus de 3449 démos avec le temps (sans compter le nombre de démos effectuées sur GZDoom et Zandronum parce que sinon on affole les 5000).
+Oui j'ai concocté plus de 5015 démos avec le temps (sans compter le nombre de démos effectuées sur GZDoom et Zandronum parce que sinon on affole les 5000).
 
 ***
 ## Vocabulaire
