@@ -12,7 +12,7 @@ Mais ici on ne va pas l'utiliser par ce qu'il faut que l'on reste précis pour e
 ## Démos
 |Niveau|Difficulté|Date D'enregistrement|Temps|Lien|Vidéo (si disponible)|
 |-|-|-|-|-|-|
-|E1M1|SM-Speed (UV-Speed)|12/08/2025|0:29.83|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/ub/pbs/h1m1uv-02984.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/videos/heretic/uv/h1m1uv-02984.mp4" type="video/mp4" preload="auto" >}}|
+|E1M1|SM-Speed (UV-Speed)|12/08/2025|0:29.83|[démo](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/UV/PBs/h1m1uv-02984.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/Videos/Heretic/UV/h1m1uv-02984.mp4" type="video/mp4" preload="auto" >}}|
 |||12/08/2025|0:29.91|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/uv/pbs/h1m1uv-02991.lmp)||
 |||11/08/2025|0:30.42|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/uv/pbs/h1m1uv-03042.lmp)||
 ||||0:30.49|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/uv/pbs/h1m1uv-03049.lmp)||
