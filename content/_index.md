@@ -12,4 +12,4 @@ Je partagerai également des Maps ou des Mods conçus pour Doom / Quake.
 
 Je mettrai à disposition (plus tard) une API pour pouvoir effectuer des renders de d�mos de Doom et de Quake (ou de jeux utilisant ID Tech 1 / GoldSrc, je préciserai plus tard sur un autre onglet).
 
-Vous pouvez accéder à la présentation [ici](https://azrael-iii.github.io/neocom.github.io/Demos/presentation)
+Vous pouvez accéder à la présentation [ici](https://azrael-iii.github.io/neocom.github.io/demos/)

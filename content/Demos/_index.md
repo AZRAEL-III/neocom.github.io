@@ -8,9 +8,9 @@ Ici, vous étes dans la catégorie **Démos**, je partagerai la totalité de mes
 ## Tableau
 |Jeu|Nombre de Démos / Run terminées|Catégorie la plus fréquente|Lien vers les temps (Si disponible)|
 |-|-|-|-|
-|Quake|2986 / 212|Episode 1 - Easy Run (ER)|[Lien](https://azrael-iii.github.io/neocom.github.io/Demos/Quake/)|
+|Quake|2986 / 212|Episode 1 - Easy Run (ER)|[Lien](https://azrael-iii.github.io/neocom.github.io/demos/quake/)|
 |The Ultimate Doom|1287 / 240|ITYTD-Speed / UV-Speed||
-|Heretic|462 / 14|SM-Speed (UV-Speed)|[Lien](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/)|
+|Heretic|462 / 14|SM-Speed (UV-Speed)|[Lien](https://azrael-iii.github.io/neocom.github.io/demos/heretic/)|
 |FreeDoom|150 / 20|PdKM-Speed||
 |Doom (KEX port)|2 / 2|ITYTD-Speed / UV-Speed||
 |System Shock (1993)|48 / 8|Difficulty 0:0||
