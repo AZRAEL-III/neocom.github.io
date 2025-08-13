@@ -11,13 +11,13 @@ Ici, vous étes dans la catégorie **Démos**, je partagerai la totalité de mes
 |Quake|2986 / 212|Episode 1 - Easy Run (ER)|[Lien](https://azrael-iii.github.io/neocom.github.io/demos/quake/)|
 |The Ultimate Doom|1287 / 240|ITYTD-Speed / UV-Speed|[Lien](https://azrael-iii.github.io/neocom.github.io/demos/doom/)|
 |Heretic|504 / 15|SM-Speed (UV-Speed)|[Lien](https://azrael-iii.github.io/neocom.github.io/demos/heretic/)|
-|FreeDoom|150 / 20|PdKM-Speed||
+|FreeDoom|150 / 20|PdKM-Speed|[Lien](https://azrael-iii.github.io/neocom.github.io/demos/freedoom)|
 |Doom (KEX port)|2 / 2|ITYTD-Speed / UV-Speed||
 |System Shock (1993)|48 / 8|Difficulty 0:0||
-|Trackmania|190 / 4|White - Any%||
+|Trackmania|190 / 4|White - Any%|[Lien](https://azrael-iii.github.io/neocom.github.io/demos/trackmania/)|
 |Psydoom|2 / 2|UV-Speed||
 |Half-Life|29 / 2|Scriptless||
-|Nullpomino|14 / 1|40 Lines Race||
+|Nullpomino|14 / 1|40 Lines Race|[Lien](https://azrael-iii.github.io/neocom.github.io/demos/nullpomino)|
 |Penumbra : Black Plague|390 / 0|Any%||
 
 Oui j'ai concocté plus de 5558 démos avec le temps (sans compter le nombre de démos effectuées sur GZDoom et Zandronum parce que sinon on affole les 6000).
