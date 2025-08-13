@@ -13,16 +13,16 @@ Mais ici on ne va pas l'utiliser par ce qu'il faut que l'on reste précis pour e
 |Niveau|Difficulté|Date D'enregistrement|Temps|Lien|Vidéo (si disponible)|
 |-|-|-|-|-|-|
 |E1M1|SM-Speed (UV-Speed)|12/08/2025|0:29.83|[démo](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/UV/PBs/h1m1uv-02984.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/Videos/Heretic/UV/h1m1uv-02984.mp4" type="video/mp4" preload="auto" >}}|
-|||12/08/2025|0:29.91|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/uv/pbs/h1m1uv-02991.lmp)||
-|||11/08/2025|0:30.42|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/uv/pbs/h1m1uv-03042.lmp)||
-||||0:30.49|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/uv/pbs/h1m1uv-03049.lmp)||
-||||0:30.81|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/uv/pbs/h1m1uv-030.lmp)||
-||||0:31.xx|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/uv/pbs/h1m1uv-031.lmp)||
-||||0:32.xx|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/uv/pbs/h1m1uv-032.lmp)||
-||||0:37.xx|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/uv/pbs/h1m1uv-037.lmp)||
-||||0:38.xx|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/uv/pbs/h1m1uv-038.lmp)||
-||||0:38.46|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/uv/pbs/h1m1uv-03846.lmp)||
-||||0:41.xx|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/uv/pbs/h1m1uv-041.lmp)||
-||||0:43.xx|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/uv/pbs/h1m1uv-043.lmp)||
-||ITYTD-Speed|11/08/2025|0:30.xx|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/it/pbs/h1m1it-030.lmp)||
-||||0:35.xx|[démo](https://azrael-iii.github.io/neocom.github.io/demos/heretic/it/pbs/h1m1it-035.lmp)||
+|||12/08/2025|0:29.91|[démo](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/UV/PBs/h1m1uv-02991.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/Videos/Heretic/UV/h1m1uv-02991.mp4" type="video/mp4" preload="auto" >}}|
+|||11/08/2025|0:30.42|[démo](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/UV/PBs/h1m1uv-03042.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/Videos/Heretic/UV/h1m1uv-0342.mp4" type="video/mp4" preload="auto" >}}|
+||||0:30.49|[démo](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/UV/PBs/h1m1uv-03049.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/Videos/Heretic/UV/h1m1uv-03049.mp4" type="video/mp4" preload="auto" >}}|
+||||0:30.81|[démo](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/UV/PBs/h1m1uv-030.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/Videos/Heretic/UV/h1m1uv-030.mp4" type="video/mp4" preload="auto" >}}|
+||||0:31.xx|[démo](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/UV/PBs/h1m1uv-031.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/Videos/Heretic/UV/h1m1uv-031.mp4" type="video/mp4" preload="auto" >}}|
+||||0:32.xx|[démo](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/UV/PBs/h1m1uv-032.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/Videos/Heretic/UV/h1m1uv-032.mp4" type="video/mp4" preload="auto" >}}|
+||||0:37.xx|[démo](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/UV/PBs/h1m1uv-037.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/Videos/Heretic/UV/h1m1uv-037.mp4" type="video/mp4" preload="auto" >}}|
+||||0:38.xx|[démo](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/UV/PBs/h1m1uv-038.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/Videos/Heretic/UV/h1m1uv-038.mp4" type="video/mp4" preload="auto" >}}|
+||||0:38.46|[démo](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/UV/PBs/h1m1uv-03846.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/Videos/Heretic/UV/h1m1uv-03846.mp4" type="video/mp4" preload="auto" >}}|
+||||0:41.xx|[démo](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/UV/PBs/h1m1uv-041.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/Videos/Heretic/UV/h1m1uv-041.mp4" type="video/mp4" preload="auto" >}}|
+||||0:43.xx|[démo](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/UV/PBs/h1m1uv-043.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/Videos/Heretic/UV/h1m1uv-043.mp4" type="video/mp4" preload="auto" >}}|
+||ITYTD-Speed|11/08/2025|0:30.xx|[démo](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/IT/PBs/h1m1it-030.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/Videos/Heretic/IT/h1m1uv-030.mp4" type="video/mp4" preload="auto" >}}|
+||||0:35.xx|[démo](https://azrael-iii.github.io/neocom.github.io/Demos/Heretic/IT/PBs/h1m1it-035.lmp)|{{< video src="https://azrael-iii.github.io/neocom.github.io/Videos/Heretic/IT/h1m1uv-035.mp4" type="video/mp4" preload="auto" >}}|
